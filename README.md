@@ -182,7 +182,7 @@ Related Repos:
 ### iOS SDK
 
 * [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ios)
-* [Repo with Samples :fire::fire::fire:](https://github.com/awslabs/aws-sdk-ios-samples)
+* [Repo with Samples :fire::fire::fire::fire:](https://github.com/awslabs/aws-sdk-ios-samples)
 * [Install](http://sdk-for-ios.amazonwebservices.com/latest/aws-ios-sdk.zip)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-ios/)
 * [Learn More](https://aws.amazon.com/mobile/sdk/)
@@ -266,7 +266,7 @@ Related Repos:
 Related Repos:
 
 * [boto3 :fire::fire::fire::fire::fire:](https://github.com/boto/boto3)
-* [botocore :fire::fire::fire:](https://github.com/boto/botocore)
+* [botocore :fire::fire::fire::fire:](https://github.com/boto/botocore)
 
 ### Ruby SDK
 
@@ -741,7 +741,7 @@ Community Repos:
 * [goadapp/goad :fire::fire::fire::fire:](https://github.com/goadapp/goad) - Lambda powered, highly distributed, load testing tool.
 * [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) - Automate Chrome through Lambda.
 * [grycap/scar :fire::fire::fire:](https://github.com/grycap/scar) - Transparently execute containers out of Docker images in AWS Lambda.
-* [jeremydaly/lambda-api :fire::fire::fire:](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
+* [jeremydaly/lambda-api :fire::fire::fire::fire:](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
 * [jimpick/lambda-comments :fire::fire::fire:](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
 * [jorgebastida/gordon :fire::fire::fire::fire::fire:](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 * [ks888/LambStatus :fire::fire::fire::fire:](https://github.com/ks888/LambStatus) - A status page system inspired by StatusPage.io, built on AWS Lambda.
